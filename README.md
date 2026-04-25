@@ -1,5 +1,4 @@
-CrimeShield AI (Web Version)
-
+🛡️ CrimeShield AI (Web Version)
 CrimeShield AI is a web-based application built using HTML, CSS, and JavaScript that helps visualize and analyze crime data. It provides interactive dashboards, crime hotspots, and basic prediction insights for better awareness and safety.
 
 🚀 Features
@@ -25,11 +24,12 @@ CrimeShield-AI/
 └── README.md
 ⚙️ Setup & Installation
 Download or clone the project:
+bash
 git clone https://github.com/yourusername/crimeshield-ai.git
 Open the project folder:
+bash
 cd crimeshield-ai
-Run the project:
-Simply open index.html in your browser
+Run the project: Simply open index.html in your browser.
 ▶️ Usage
 Open the dashboard
 View crime statistics
@@ -44,6 +44,10 @@ Highlight dangerous zones
 🌐 Live data integration (APIs)
 🔐 User authentication system
 📱 Progressive Web App (PWA)
+🤝 Contributing
+Feel free to contribute by:
 
-
+Improving UI/UX
+Adding new features
+Fixing bugs
 
